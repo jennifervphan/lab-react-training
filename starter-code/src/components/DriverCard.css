@@ -1,0 +1,17 @@
+.driverCard {
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.driverCard div {
+    width: 50%;
+}
+
+.driverCard img {
+    width: 30%;
+    border-radius: 50%;
+    margin-left: 450px;
+}

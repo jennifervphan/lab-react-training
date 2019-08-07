@@ -1,0 +1,15 @@
+.idCard {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 20px;
+    border: solid 1px grey;
+}
+
+.idCard img {
+    width: 20%;
+}
+
+.idCard div {
+    margin: 20px;
+}

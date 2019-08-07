@@ -1,0 +1,35 @@
+.creditCard img {
+    width: 20%;
+}
+
+.creditCard {
+    display: flex;
+}
+
+.eachCredit {
+    width: 30%;
+    height: 220px;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.eachCredit span {
+    margin: 0 10px;
+}
+
+.eachCredit div {
+    height: 33%;
+}
+
+.bankName {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bankAcc {
+    font-size: 30px;
+}
