@@ -14,6 +14,10 @@ export default class Nav extends Component {
                     <li><Link to="/rating">Rating</Link></li>
                     <li><Link to="/driverCard">Diver's Card</Link></li>
                     <li><Link to="/like">Like Button</Link></li>
+                    <li><Link to="/clickable">Clickable Picture</Link></li>
+                    <li><Link to="/dice">Dice</Link></li>
+                    <li><Link to="/carousel">Carousel</Link></li>
+                    <li><Link to="/numbersTable">Numbers Table</Link></li>
 
                 </ul>
             </div>
